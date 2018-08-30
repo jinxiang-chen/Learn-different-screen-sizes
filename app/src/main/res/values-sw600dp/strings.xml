@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TestTabletAndPhoneLayout</string>
+
+    <string name="layout_txt">sw600dp</string>
+</resources>
